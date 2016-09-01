@@ -1,2 +1,2 @@
-secrets
 terraform.tfstate
+variables.tf
